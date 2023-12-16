@@ -1,2 +1,2 @@
 # TheRustBook
-My journey of self-education through the official Rust documentation / tutorial
+My journey of self-education through [The Rust Book](https://doc.rust-lang.org/book/), the official Rust documentation / tutorial
